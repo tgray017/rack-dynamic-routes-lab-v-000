@@ -1,4 +1,5 @@
 require 'pry'
+
 class Application
   
   @@items = Item.all
